@@ -31,9 +31,7 @@ https://dns.nextdns.io # /id/你的设备名称
 
 ## Bootstrap DNS 服务器
 
-------
-
-```html
+```yaml
 223.5.5.5
 114.114.114.114
 119.29.29.29
